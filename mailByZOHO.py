@@ -1,4 +1,4 @@
-import smtplib,ssl,base64
+import smtplib,ssl
 from email.message import EmailMessage
 from email.mime.multipart import MIMEMultipart
 SMTPSERVER="smtp.zoho.com"
