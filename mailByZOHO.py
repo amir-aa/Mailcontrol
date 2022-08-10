@@ -1,4 +1,3 @@
-from Crypto.Hash import MD5
 import smtplib,ssl,base64
 from email.message import EmailMessage
 from email.mime.multipart import MIMEMultipart
